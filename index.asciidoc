@@ -1,0 +1,254 @@
+= {title}
+:title: Formal Techniques for Java-like Programs (FTfJP)
+:prefixurl: https://ece.uwaterloo.ca/~wdietl
+// :prefixurl: /home/wmdietl/Sync/wmdietl/eceweb/eceweb-local/public_html
+//
+:bootstrapurl: {prefixurl}/bootstrap
+:footer:
+:doctype: book
+:link-assets:
+:linkcss:
+:stylesdir: {bootstrapurl}/stylesheets
+:scriptsdir: {bootstrapurl}/javascripts
+:icons:
+:backend: bootstrap
+:bsver: 3
+:options: responsive
+:toc2:
+:toc-placement: right
+:theme: cerulean
+:themedir: {bootstrapurl}/themes
+:totop:
+:encoding: utf-8
+
+
+== Formal Techniques for Java-like Programs (FTfJP)
+
+=== Goals
+
+The Formal Techniques for Java-like Programs (FTfJP) workshop aims to
+bring together people working on formal techniques and tool support
+for Java, or closely related languages such as C# or Scala, either
+with the aim to describe, analyse, and verify aspects and properties
+of these programming languages themselves (type systems, semantics,
+bytecode verification, etc.), or of programs written in these
+languages. +
+Java-like languages provide a good platform to bridge the gap between
+formal techniques and practical program development, because of the
+reasonably clear semantics and standardised libraries.
+
+In 2002 the name of the workshop was changed slightly - from "Formal
+Techniques for Java Programs" to "Formal Techniques for
+Java-_like_ Programs" - to include not just work on Java, but
+also work on related languages such as C# or Scala.
+
+
+=== Steering Committee
+
+The steering committee of FTfJP consists of:
+
+* https://ece.uwaterloo.ca/~wdietl/[Werner Dietl] (chair)
+// since 2013
+// chair 2014-2017
+
+* http://www.doc.ic.ac.uk/~scd/[Sophia Drossopoulou]
+
+* http://www.eecs.ucf.edu/~leavens/homepage.html[Gary T. Leavens]
+
+* http://www.pm.inf.ethz.ch/people/pmueller[Peter M&uuml;ller]
+
+* http://research.microsoft.com/~leino/[Rustan Leino]
+
+* http://www.cs.ru.nl/~erikpoll/[Erik Poll]
+
+
+Previous members:
+
+* https://softech.informatik.uni-kl.de/homepage/en/staff/PoetzschHeffter/[Arnd
+Poetzsch-Heffter]
+
+* http://wp.doc.ic.ac.uk/susan/person/susan-eisenbach/[Susan
+Eisenbach]
+
+
+=== Workshops
+
+Find links to the workshops, to the workshop proceedings, and to
+special journal issues with expanded and revised versions of the best
+workshop papers below. 
+
+
+* https://www.cs.nuim.ie/FTfJP2015[FTfJP 2015],
+  Prague, Czech Republic. +
+  http://dl.acm.org/citation.cfm?id=2786536[Proceedings of FTfJP 2015
+  in ACM digital library]
+
+image::images/ecoop2015.jpg["ECOOP 2015", width="150", float="right", link="https://www.cs.nuim.ie/FTfJP2015"]
+
+
+* http://ecs.victoria.ac.nz/Events/FTfJP2014/[FTfJP 2014],
+  Uppsala, Sweden. +
+  http://dl.acm.org/citation.cfm?id=2635631[Proceedings of FTfJP 2014
+  in ACM digital library]
+
+
+* http://types.cs.washington.edu/ftfjp2013/[FTfJP 2013],
+  Montpellier, France. +
+  http://dl.acm.org/citation.cfm?id=2489804[Proceedings of FTfJP 2013
+  in ACM digital library]
+
+image::images/ecoop2013.jpg["ECOOP 2013", width=250, float="right", link="http://types.cs.washington.edu/ftfjp2013"]
+
+
+* http://www.comp.nus.edu.sg/~ftfjp/[FTfJP 2012],
+  Beijing, China. +
+  http://dl.acm.org/citation.cfm?id=2318202[Proceedings of FTfJP 2012
+  in ACM digital library]
+
+image::images/ecoop2012small.jpg["ECOOP 2012", width=250, float="right", link="http://www.comp.nus.edu.sg/~ftfjp/"]
+
+
+* http://www.cs.williams.edu/FTfJP2011/index.html[FTfJP 2011],
+  Lancaster, UK. +
+  http://dl.acm.org/citation.cfm?id=2076674[Proceedings of FTfJP 2011
+  in ACM digital library]
+
+
+* http://distrinet.cs.kuleuven.be/events/ftfjp10/[FTfJP 2010],
+  Maribor, Slovenia. +
+  http://portal.acm.org/toc.cfm?id=1924520[Proceedings of FTfJP 2010
+  in ACM digital library]
+
+
+* http://people.cis.ksu.edu/~ab/FTfJP09/ftfjp09.html[FTfJP 2009],
+  Genova, Italy. +
+  http://portal.acm.org/toc.cfm?id=1557898[Proceedings of FTfJP 2009
+  in ACM digital library]
+
+image::images/ecoop2009.png["ECOOP 2009", height=90, float="right", link="http://people.cis.ksu.edu/~ab/FTfJP09/ftfjp09.html"]
+
+
+* http://www-sop.inria.fr/everest/events/FTfJP08[FTfJP 2008],
+  Paphos, Cyprus. +
+  Follow-up special issue (joint with
+  http://www.cs.purdue.edu/homes/wrigstad/iwaco08/[IWACO'08]):
+  http://www.jot.fm/issues/issue_2009_06/[Journal of Object
+  Technology, Vol. 8, No. 4, 2009]
+
+image::images/ecoop2008.gif["ECOOP 2008", height=50, float="right", link="http://www-sop.inria.fr/everest/events/FTfJP08"]
+
+
+* http://cs.nju.edu.cn/boyland/ftjp/index.html[FTfJP 2007],
+  Berlin, Germany. +
+  Follow-up special issue: http://www.jot.fm/issues/issue_2008_06/index.html[Journal of Object Technology, Vol. 7, No. 5, 2007]
+
+image::images/ecoop2007.gif["ECOOP 2007", height=60, float="right", link="http://cs.nju.edu.cn/boyland/ftjp/index.html"]
+
+
+* http://www.cs.ru.nl/ftfjp/2006/index.html[FTfJP 2006],
+  Glasgow, Scotland. +
+  Follow-up special issue:
+  http://www.jot.fm/issues/issue_2007_06[Journal of Object Technology,
+  Vol. 6, No. 5, 2007]. +
+  http://www.enseignement.polytechnique.fr/profs/informatique/Francesco.Logozzo/PicturesFTfJP05/[Pictures
+  from the workshop]
+
+
+* http://www.cs.ru.nl/ftfjp/2005.html[FTfJP 2005],
+  Edinburgh, Scotland. +
+  Follow-up special issue: http://www.jot.fm/issues/issue_2006_06[Journal of Object Technology, Vol. 5, No. 5, 2006]
+
+image::images/ecoop2005.gif["ECOOP 2005", height=80, float="right", link="http://www.cs.ru.nl/ftfjp/2005.html"]
+
+
+* http://www.cs.ru.nl/ftfjp/2004.html[FTfJP 2004],
+  Oslo, Norway. +
+  Follow-up special issue:
+  http://www.jot.fm/issues/issue_2005_10[Journal of Object Technology,
+  Vol. 4, No. 8, 2005]
+
+image::images/ecoop2004.gif["ECOOP 2004", height=80, float="right", link="http://www.cs.ru.nl/ftfjp/2004.html"]
+
+
+* http://www.cs.ru.nl/ftfjp/2003.html[FTfJP 2003],
+  Darmstadt, Germany. +
+  Follow-up special issue:
+  http://www.jot.fm/issues/issue_2004_06/[Journal of Object
+  Technology, Vol. 3, No. 6, 2004]
+
+image::images/ecoop2003.jpg["ECOOP 2003", height=70, float="right", link="http://www.cs.ru.nl/ftfjp/2003.html"]
+
+
+* http://www.cs.ru.nl/ftfjp/2002.html[FTfJP 2002],
+  M&aacute;laga, Spain. +
+  Follow-up special issue:
+  http://onlinelibrary.wiley.com/doi/10.1002/cpe.v16:7/issuetoc[Concurrency
+  and Computation: Practice and Experience, Vol. 16, No. 7, 2004]
+
+image::images/ecoop2002.gif["ECOOP 2002", float="right", link="http://www.cs.ru.nl/ftfjp/2002.html"]
+
+
+* http://www.cs.ru.nl/ftfjp/2001/ftfjp01.pdf[FTfJP 2001]
+  (http://www.cs.ru.nl/ftfjp/2001-talks.zip[papers separately]),
+  Budapest, Hungary. +
+  Follow-up special issue:
+  http://onlinelibrary.wiley.com/doi/10.1002/cpe.v15:2/issuetoc[Concurrency
+  and Computation: Practice and Experience, Vol. 15, No. 2, 2003]
+
+image::images/ecoop2001.jpg["ECOOP 2001", float="right", link="http://www.cs.ru.nl/ftfjp/2001/ftfjp01.pdf"]
+
+
+* http://www.cs.ru.nl/ftfjp/2000/ftfjp00.pdf[FTfJP 2000],
+  Sophia Antipolis and Cannes, France. +
+  Follow-up special issue:
+  http://onlinelibrary.wiley.com/doi/10.1002/cpe.v13:13/issuetoc[Concurrency
+  and Computation: Practice and Experience, Vol. 13, No. 13, 2001]
+
+image::images/ecoop2000.gif["ECOOP 2000", float="right", link="http://www.cs.ru.nl/ftfjp/2000/ftfjp00.pdf"]
+
+
+* http://www.cs.ru.nl/ftfjp/1999/ftfjp99.pdf[FTfJP'99],
+  Lisbon, Portugal.
+
+image::images/ecoop1999.gif["ECOOP 1999", float="right", link="http://www.cs.ru.nl/ftfjp/1999/ftfjp99.pdf"]
+
+
+* http://www.cs.ru.nl/ftfjp/1998/cfp.html[Formal Underpinnings of
+  Java],
+  Vancouver, Canada.
+
+image::images/oopsla1998.gif["OOPSLA 1998", height=90, float="right", link="http://www.cs.ru.nl/ftfjp/1998/cfp.html"]
+
+{nbsp}
+
+{nbsp}
+
+{nbsp}
+
+{nbsp}
+
+''''
+
+=== Contact & Feedback
+
+Feedback for this website is welcome!
+Feel free to open issues or send pull requests on the
+https://bitbucket.org/FTfJP/ftfjp.bitbucket.org[Bitbucket] page.
+
+For questions about a particular year, please contact the
+corresponding Program Chair.
+
+For anything else, please contact
+https://ece.uwaterloo.ca/~wdietl/contact.html[Werner Dietl].
+
+
+
+////
+LocalWords:  FTfJP ECOOP prefixurl wmdietl bootstrapurl fullwidth toc
+LocalWords:  doctype linkcss stylesdir scriptsdir backend bsver totop
+LocalWords:  themedir stylesheets javascripts utf eceweb html Scala
+LocalWords:  bytecode Dietl Drossopoulou Leino ller uuml Poetzsch ACM
+LocalWords:  Heffter Eisenbach Uppsala Montpellier jpg ecoop Maribor
+LocalWords:  Genova Paphos gif Darmstadt Antipolis aacute laga oopsla
+LocalWords:  bitbucket https nbsp
+////

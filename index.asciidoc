@@ -55,14 +55,17 @@ The steering committee of FTfJP consists of:
 
 * http://www.eecs.ucf.edu/~leavens/homepage.html[Gary T. Leavens]
 
-* http://www.pm.inf.ethz.ch/people/pmueller[Peter M&uuml;ller]
-
 * http://research.microsoft.com/~leino/[Rustan Leino]
 
-* http://www.cs.ru.nl/~erikpoll/[Erik Poll]
+* http://www.cs.nuim.ie/~rosemary/[Rosemary Monahan]
+
+* http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html[Peter M&uuml;ller]
 
 
 Previous members:
+
+* http://www.cs.ru.nl/~erikpoll/[Erik Poll]
+// until Sept. 2015
 
 * https://softech.informatik.uni-kl.de/homepage/en/staff/PoetzschHeffter/[Arnd
 Poetzsch-Heffter]

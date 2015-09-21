@@ -57,7 +57,7 @@ The steering committee of FTfJP consists of:
 
 * http://research.microsoft.com/~leino/[Rustan Leino]
 
-* http://www.cs.nuim.ie/~rosemary/[Rosemary Monahan]
+* http://www.cs.nuim.ie/staff/rosemary/[Rosemary Monahan]
 
 * http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html[Peter M&uuml;ller]
 

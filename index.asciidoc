@@ -80,6 +80,13 @@ Find links to the workshops, to the workshop proceedings, and to
 special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
+* http://2016.ecoop.org/track/FTfJP-2016[FTfJP 2016],
+  Rome, Italy. +
+  http://dl.acm.org/citation.cfm?id=2955811[Proceedings of FTfJP 2016
+  in ACM digital library]
+
+image::images/ecoop2016.jpg["ECOOP 2016", width="150", float="right", link="http://2016.ecoop.org/track/FTfJP-2016"]
+
 
 * https://www.cs.nuim.ie/FTfJP2015[FTfJP 2015],
   Prague, Czech Republic. +

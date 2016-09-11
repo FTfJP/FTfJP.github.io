@@ -85,7 +85,7 @@ workshop papers below.
   http://dl.acm.org/citation.cfm?id=2955811[Proceedings of FTfJP 2016
   in ACM digital library]
 
-image::images/ecoop2016.jpg["ECOOP 2016", width="150", float="right", link="http://2016.ecoop.org/track/FTfJP-2016"]
+image::images/ecoop2016.png["ECOOP 2016", width="150", float="right", link="http://2016.ecoop.org/track/FTfJP-2016"]
 
 
 * https://www.cs.nuim.ie/FTfJP2015[FTfJP 2015],

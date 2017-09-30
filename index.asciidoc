@@ -47,25 +47,32 @@ also work on related languages such as C# or Scala.
 
 The steering committee of FTfJP consists of:
 
-* https://ece.uwaterloo.ca/~wdietl/[Werner Dietl] (chair)
-// since 2013
-// chair 2014-2017
+* http://www.cs.nuim.ie/staff/rosemary/[Rosemary Monahan] (chair)
+// member 09/2015-
+// chair 10/2017-
 
-* http://www.doc.ic.ac.uk/~scd/[Sophia Drossopoulou]
+* https://ece.uwaterloo.ca/~wdietl/[Werner Dietl]
+// member 09/2013-
+// chair 09/2014-09/2017
+
+* https://www.cs.kent.ac.uk/people/staff/rg399/[Radu Grigore]
+// member 09/2017-
 
 * http://www.eecs.ucf.edu/~leavens/homepage.html[Gary T. Leavens]
-
-* http://research.microsoft.com/~leino/[Rustan Leino]
-
-* http://www.cs.nuim.ie/staff/rosemary/[Rosemary Monahan]
 
 * http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html[Peter M&uuml;ller]
 
 
 Previous members:
 
+* http://www.doc.ic.ac.uk/~scd/[Sophia Drossopoulou]
+// member 1999-2017
+
+* http://research.microsoft.com/~leino/[Rustan Leino]
+// member -2016
+
 * http://www.cs.ru.nl/~erikpoll/[Erik Poll]
-// until Sept. 2015
+// member until Sept. 2015
 
 * https://softech.informatik.uni-kl.de/homepage/en/staff/PoetzschHeffter/[Arnd
 Poetzsch-Heffter]

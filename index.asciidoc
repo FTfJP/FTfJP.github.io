@@ -87,6 +87,9 @@ Find links to the workshops, to the workshop proceedings, and to
 special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
+* https://2017.ecoop.org/track/FTfJP-2017-papers[FTfJP 2017],
+  Barcelona, Spain.
+
 * http://2016.ecoop.org/track/FTfJP-2016[FTfJP 2016],
   Rome, Italy. +
   http://dl.acm.org/citation.cfm?id=2955811[Proceedings of FTfJP 2016

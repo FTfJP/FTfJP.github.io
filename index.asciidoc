@@ -91,7 +91,9 @@ workshop papers below.
   Amsterdam, Netherlands.
   
 * https://2017.ecoop.org/track/FTfJP-2017-papers[FTfJP 2017],
-  Barcelona, Spain.
+  Barcelona, Spain. +
+  http://dl.acm.org/citation.cfm?id=3103111[Proceedings of FTfJP 2017
+  in ACM digital library]
 
 * http://2016.ecoop.org/track/FTfJP-2016[FTfJP 2016],
   Rome, Italy. +

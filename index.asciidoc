@@ -87,6 +87,9 @@ Find links to the workshops, to the workshop proceedings, and to
 special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
+* https://conf.researchr.org/track/FTfJP-2018/FTfJP-2018-papers[FTfJP 2018],
+  Amsterdam, Netherlands.
+  
 * https://2017.ecoop.org/track/FTfJP-2017-papers[FTfJP 2017],
   Barcelona, Spain.
 

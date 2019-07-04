@@ -95,8 +95,10 @@ workshop papers below.
   London, UK.
 
 * https://conf.researchr.org/track/FTfJP-2018/FTfJP-2018-papers[FTfJP 2018],
-  Amsterdam, Netherlands.
-  
+  Amsterdam, Netherlands. +
+  https://dl.acm.org/citation.cfm?id=3236454&picked=prox[Proceedings of FTfJP
+  2018 in ACM digital library]
+
 * https://2017.ecoop.org/track/FTfJP-2017-papers[FTfJP 2017],
   Barcelona, Spain. +
   http://dl.acm.org/citation.cfm?id=3103111[Proceedings of FTfJP 2017

@@ -47,9 +47,9 @@ also work on related languages such as C# or Scala.
 
 The steering committee of FTfJP consists of:
 
-* https://ece.uwaterloo.ca/~wdietl/[Werner Dietl] (chair)
+* https://ece.uwaterloo.ca/~wdietl/[Werner Dietl]
 // member 09/2013-
-// chair 09/2014-09/2017, 09/2018-
+// chair 09/2014-09/2017, 09/2018-10/2019
 
 * https://www.cs.kent.ac.uk/people/staff/rg399/[Radu Grigore]
 // member 09/2017-
@@ -58,7 +58,7 @@ The steering committee of FTfJP consists of:
 
 * http://www.cs.nuim.ie/staff/rosemary/[Rosemary Monahan] (chair)
 // member 09/2015-
-// chair 10/2017-09/2018
+// chair 10/2017-09/2018, 11/2019-
 
 * http://people.inf.ethz.ch/summersa/wiki/index.php[Alex Summers]
 // member 01/2019-
@@ -92,7 +92,9 @@ special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
 * https://2019.ecoop.org/home/FTfJP-2019[FTfJP 2019],
-  London, UK.
+  London, UK. +
+  https://dl.acm.org/citation.cfm?id=3340672[Proceedings of FTfJP 2019 in ACM
+  digital library]
 
 * https://conf.researchr.org/track/FTfJP-2018/FTfJP-2018-papers[FTfJP 2018],
   Amsterdam, Netherlands. +

@@ -91,6 +91,9 @@ Find links to the workshops, to the workshop proceedings, and to
 special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
+* https://2021.ecoop.org/track/ecoop-issta-2021-ftfjp[FTfJP2021],
+  Virtual.
+
 * https://2020.ecoop.org/track/FTfJP-2020-papers[FTfJP 2020],
   Virtual. +
   https://dl.acm.org/doi/proceedings/10.1145/3427761[Proceedings of FTfJP 2020 in ACM

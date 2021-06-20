@@ -277,7 +277,7 @@ image::images/oopsla1998.gif["OOPSLA 1998", height=90, float="right", link="http
 
 Feedback for this website is welcome!
 Feel free to open issues or send pull requests on the
-https://bitbucket.org/FTfJP/ftfjp.bitbucket.org[Bitbucket] page.
+https://github.com/FTfJP/ftfjp.github.io[GitHub] page.
 
 For questions about a particular year, please contact the
 corresponding Program Chair.

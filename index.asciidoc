@@ -1,5 +1,5 @@
 = {title}
-:title: Formal Techniques for Java-like Programs (FTfJP)
+:title: Formal Techniques for Judicious Programming (FTfJP)
 :prefixurl: https://ece.uwaterloo.ca/~wdietl
 // :prefixurl: /home/wmdietl/Sync/wmdietl/eceweb/eceweb-local/public_html
 //
@@ -22,20 +22,31 @@
 :encoding: utf-8
 
 
-== Formal Techniques for Java-like Programs (FTfJP)
+== Formal Techniques for Judicious Programming (FTfJP)
 
 === Goals
 
-The Formal Techniques for Java-like Programs (FTfJP) workshop aims to
-bring together people working on formal techniques and tool support
-for Java, or closely related languages such as C# or Scala, either
-with the aim to describe, analyse, and verify aspects and properties
-of these programming languages themselves (type systems, semantics,
-bytecode verification, etc.), or of programs written in these
-languages. +
-Java-like languages provide a good platform to bridge the gap between
-formal techniques and practical program development, because of the
-reasonably clear semantics and standardised libraries.
+Formal techniques can help analyse programs, precisely describe
+program behaviour, and verify program properties. Modern programming
+languages (such as C#, Java, Kotlin, Rust, or Scala) are interesting
+targets for formal techniques due to their ubiquity and wide user
+base, stable and well-defined interfaces and platforms, and powerful
+(but also complex) libraries. New languages and applications in this
+space are continually arising, resulting in new programming languages
+research challenges.
+
+Work on formal techniques and tools and on the formal underpinnings of
+programming languages themselves naturally complement each
+other.
+
+The Formal Techniques for Judicious Programming (FTfJP) workshop is an
+established workshop which has run annually since 1999 alongside
+ECOOP, with the goal of bringing together people working in both
+fields.
+
+In 2024 the name of the workshop was changed from "Formal Techniques for
+Java-_like_ Programs" to "Formal Techniques for Judicious Programming"
+to properly reflect the broader scope of the workshop.
 
 In 2002 the name of the workshop was changed slightly - from "Formal
 Techniques for Java Programs" to "Formal Techniques for
@@ -91,8 +102,25 @@ Find links to the workshops, to the workshop proceedings, and to
 special journal issues with expanded and revised versions of the best
 workshop papers below. 
 
-* https://2021.ecoop.org/track/ecoop-issta-2021-ftfjp[FTfJP2021],
-  Virtual.
+* https://conf.researchr.org/home/issta-ecoop-2024/FTfJP-2024[FTfJP 2024],
+  Vienna, Austria. +
+  https://dl.acm.org/doi/proceedings/10.1145/3678721[Proceedings of FTfJP 2024 in ACM
+  digital library]
+
+* https://2023.ecoop.org/track/FTfJP-2023[FTfJP 2023],
+  Seattle, USA. +
+  https://dl.acm.org/doi/proceedings/10.1145/3605156[Proceedings of FTfJP 2023 in ACM
+  digital library]
+
+* https://2022.ecoop.org/track/FTfJP-2022[FTfJP 2022],
+  Berlin, Germany. +
+  https://dl.acm.org/doi/proceedings/10.1145/3611096[Proceedings of FTfJP 2022 in ACM
+  digital library]
+
+* https://2021.ecoop.org/track/ecoop-issta-2021-ftfjp[FTfJP 2021],
+  Virtual. +
+  https://dl.acm.org/doi/proceedings/10.1145/3464971[Proceedings of FTfJP 2021 in ACM
+  digital library]
 
 * https://2020.ecoop.org/track/FTfJP-2020-papers[FTfJP 2020],
   Virtual. +
